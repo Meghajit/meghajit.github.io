@@ -22,7 +22,7 @@ title: Megh Bytes
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog.
-baseurl: /meghajit.github.io
+baseurl: ""
 domain: meghajit.github.io
 url: https://meghajit.github.io
 github_username:  meghajit
