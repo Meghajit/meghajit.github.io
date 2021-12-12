@@ -7,4 +7,4 @@ header:
     overlay_image: /assets/images/tech_background.png 
     show_overlay_excerpt: false
 ---
-# software engineering
+# Software Engineering and Technology
