@@ -9,4 +9,3 @@ header:
     overlay_image: /assets/images/header_image.jpg
     show_overlay_excerpt: false
 ---
-# Fiction

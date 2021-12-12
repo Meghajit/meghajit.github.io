@@ -2,6 +2,10 @@
 title:  "Back to Godhead"
 date:   2021-12-13 01:01:00 +0530
 categories: fiction
+excerpt: "What happens after death ?"
+header:
+    og_image: /assets/images/logo.jpg
+    overlay_image: /assets/images/header_image.jpg
 ---
 I feel a gentle, cool breeze touch against my face. I try to open my eyes, but they seem stuck. The air smells
 wonderful, like freshly cut oranges with a hint of jasmine. I feel light, without any baggage, nothing keeping me to the
@@ -49,5 +53,10 @@ of small balls of fire, all shining brightly with the same radiance as me. All o
 Light in the middle and slowly merging into it. As I begin my journey into the Infinite, I lose my consciousness. I feel
 the vastness consuming me, engulfing me in a warm embrace. Happiness reigning supreme, I feel finally at peace.
 
-The son has returned to his mother. The drop has found its Ocean. The devotee has found his Lord. I have become Him and
-He has become me.
+The son has returned to his mother.
+
+The drop has found its Ocean.
+
+The devotee has found his Lord.
+
+I have become Him and He has become me.
