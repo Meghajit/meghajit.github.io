@@ -1,5 +1,7 @@
 ---
 title: About Me
+header:
+    og_image: /assets/images/logo.jpg
 permalink: /about/
 ---
 ### Hello !
