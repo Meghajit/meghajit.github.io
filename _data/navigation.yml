@@ -1,0 +1,11 @@
+main:
+  - title: "About Me"
+    url: /about/
+  - title: "Tech"
+    url: /tech/
+  - title: "Opinions and Reminiscences"
+    url: /personalviews/
+  - title: "Fiction"
+    url: /fiction/
+  - title: "Music and Podcasts"
+    url: /music/
