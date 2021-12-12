@@ -31,6 +31,10 @@ repository: meghajit/meghajit.github.io
 # add directories to lookup for content
 include: ["_pages"]
 
+# pagination settings for landing page index.md
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
