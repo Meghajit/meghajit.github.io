@@ -28,6 +28,9 @@ url: https://meghajit.github.io
 github_username:  meghajit
 repository: meghajit/meghajit.github.io
 
+# add directories to lookup for content
+include: ["_pages"]
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
