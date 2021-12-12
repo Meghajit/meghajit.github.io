@@ -6,4 +6,4 @@ header:
     overlay_image: /assets/images/header_image.jpg
     show_overlay_excerpt: false
 ---
-# Opinions and Reminiscences
+# Fiction
