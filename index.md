@@ -2,9 +2,7 @@
 excerpt: "Meghajit Blog"
 layout: home
 header:
-    overlay_image: /assets/images/header_image3.jpg 
-    show_overlay_excerpt: false 
-    actions:
-        - label: "More Info"
-          url: "meghajit.github.io/index.html"
+    overlay_color: "#333" 
+    show_overlay_excerpt: false
+    overlay_filter: 0.2
 ---
