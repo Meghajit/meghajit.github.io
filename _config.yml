@@ -30,6 +30,9 @@ domain: meghajit.github.io
 github_username: meghajit
 repository: meghajit/meghajit.github.io
 
+# add a masthead logo on navbar
+logo: "/assets/favicon/android-chrome-96x96.png"
+
 # add directories to lookup for content
 include: [ "_pages" ]
 
