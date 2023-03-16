@@ -12,7 +12,7 @@ header:
 
     og_image: /assets/images/logo.jpg
 
-    overlay_image: /assets/images/header_image.jpg
+    overlay_image: /assets/images/the_lost_diary.png
 
 ---
 
