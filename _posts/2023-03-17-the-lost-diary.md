@@ -10,9 +10,9 @@ excerpt: "An ancient diary leads to a journey of dark revelations"
 
 header:
 
-og_image: /assets/images/logo.jpg
+    og_image: /assets/images/logo.jpg
 
-overlay_image: /assets/images/header_image.jpg
+    overlay_image: /assets/images/header_image.jpg
 
 ---
 
