@@ -5,12 +5,8 @@ categories: fiction
 excerpt: "A dog's journey into space"
 header:
     og_image: /assets/images/logo.jpg
-    overlay_image: /assets/images/header_image.jpg
+    overlay_image: /assets/images/laika.png
 ---
-
-<p align="center">
-  <img src="/assets/images/laika.png"/>
-</p>
 
 Dear Diary,
 
